@@ -19,7 +19,7 @@ const App = () => {
           <Route path="/interview-prep/:sessionId" element={<InterviewPrep/>}/>
         </Routes>
       </Router>
-
+ {/* this is a demo addred for consistency  */}
       <Toaster
       toastOptions={{
         className: "",
