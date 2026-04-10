@@ -1,10 +1,10 @@
-# 🚀 PrepMateAI – AI-Powered Interview Preparation App
+# 🚀 Exam_prepAI – AI-Powered Interview Preparation App
 
-**PrepMateAI** is your smart, AI-driven interview preparation coach, powered by **Google's Gemini AI**. Designed for job seekers and developers, it offers a personalized, interactive experience tailored to your career goals, role, and skill level.
+**Exam_prepAI** is your smart, AI-driven interview preparation coach, powered by **Google's Gemini AI**. Designed for job seekers and developers, it offers a personalized, interactive experience tailored to your career goals, role, and skill level.
 
 ## 🔍 About the Project
 
-PrepMateAI intelligently generates interview questions and detailed answers based on your **job role**, **experience level**, and **chosen topics**. Whether you're a fresher or a seasoned professional, PrepMateAI adapts to your needs and helps you prepare with confidence.
+Exam_prepAI intelligently generates interview questions and detailed answers based on your **job role**, **experience level**, and **chosen topics**. Whether you're a fresher or a seasoned professional, Exam_prepAI adapts to your needs and helps you prepare with confidence.
 
 ---
 
